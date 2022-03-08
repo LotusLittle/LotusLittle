@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LotusLittle
+- 👀 I’m interested in quantum computing and Blockchain programming, along with a million other things...
+- 🌱 I’m currently learning about OpenSea, GitHub, and Blockchain, as well as about qubits, etc...
+- 💞️ I’m looking to collaborate on building apps to track environmental issues and how to keep people connected past social media ...
+
+<!---
+LotusLittle/LotusLittle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
